@@ -1,4 +1,4 @@
-### Hi there 👋
+![1](https://github.com/ptecc208/ptecc208/assets/162261450/01df07f5-e940-4b9a-9d37-c5eea39f9626)
 
 <!--
 **ptecc208/ptecc208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
