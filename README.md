@@ -2,6 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!&#160;I'm&#160;jinsu&#160;Park;)](https://git.io/typing-svg)
 
+## :sparkles::sparkler: Tech Stack :sparkles::sparkler:
+
+<img src="https://img.shields.io/badge/java-20232a.svg?style=for-the-badge&logo=java&logoColor=61DAFB" />
+
 <!--
 **ptecc208/ptecc208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
