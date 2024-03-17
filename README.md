@@ -1,6 +1,6 @@
 ![1](https://github.com/ptecc208/ptecc208/assets/162261450/01df07f5-e940-4b9a-9d37-c5eea39f9626)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Madimi+One&pause=1000&random=false&width=435&lines=Hello!+I'm+Jinsu+Park)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Madimi+One&pause=300&random=false&width=435&lines=Hello!+I'm+Jinsu+Park)](https://git.io/typing-svg)
 
 ### :sparkles::rocket: Tech Stack :rocket::sparkles:
 
