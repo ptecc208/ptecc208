@@ -15,5 +15,8 @@
 ![Contact](https://img.shields.io/badge/ptecc@naver.com-008DE4?style=for-the-badge&=dash&logoColor=white)
 
 
+![Ptecc208's GitHub stats](https://github-readme-stats.vercel.app/api?username=ptecc208&show_icons=true&theme=radical)
+
+
 <!--
 **ptecc208/ptecc208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
