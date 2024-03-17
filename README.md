@@ -16,6 +16,7 @@
 
 
 ![Ptecc208's GitHub stats](https://github-readme-stats.vercel.app/api?username=ptecc208&show_icons=true&theme=radical)
+<img src="https://github.com/ptecc208/ptecc208/blob/output/github-snake-dark.svg" width="100%">
 
 
 <!--
